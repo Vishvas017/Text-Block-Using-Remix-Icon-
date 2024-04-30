@@ -1,0 +1,53 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-size: 32px;
+    text-decoration: none;
+}
+.btn1
+{
+    padding: 10PX 20PX;
+    border: 1px solid black;
+    margin: auto;
+    display: inline-block;
+}
+.btn2
+{
+    padding: 10PX 20PX;
+    border: 1px solid black;
+    display: inline-block;
+    background-color: blueviolet;   
+}  
+.btn2 a
+{
+    color: white;
+}
+.btn3
+{
+    padding: 10PX 20PX;
+    border: 1px solid black;
+    display: inline-block;
+}  
+.btn3:hover
+{
+    background-color: black;
+}
+
+.btn4
+{
+    padding: 10PX 20PX;
+    border: 1px solid black;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: brown;
+}
+.btn5
+{
+    padding: 10PX 20PX;
+    display: inline-block;
+    background: linear-gradient(rgba(111, 255, 0, 0.5),rgba(255, 0, 0, 0.5));
+}    
+    
+    
+
